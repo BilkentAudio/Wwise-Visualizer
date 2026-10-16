@@ -10,6 +10,8 @@
 
 A real-time spectrum visualizer for Wwise Authoring.
 
+[Watch the demo and installation guide on YouTube](https://www.youtube.com/watch?v=en9e13iobC4)
+
 BilkentAudio Wwise Visualizer gives you immediate, visually clear frequency information about your game's audio, right inside Wwise. It is designed to be accurate and reactive, so you can see what is happening in a mix as it plays, with enough customization options to suit individual preferences and team workflows.
 
 > **Authoring only.** This plugin is a monitoring tool for use inside Wwise Authoring. It is not intended to be shipped in game builds. See [Best practices](#best-practices).
