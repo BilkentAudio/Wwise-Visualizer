@@ -7,6 +7,7 @@
 [![Wwise](https://img.shields.io/badge/Wwise-2025.1.x-blue.svg)](https://www.audiokinetic.com/en/wwise/)
 ![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen.svg)
 ![macOS](https://img.shields.io/badge/macOS-Supported-brightgreen.svg)
+[![GitHub Downloads](https://img.shields.io/github/downloads/BilkentAudio/Wwise-Visualizer/total?label=Downloads)]
 
 A real-time spectrum visualizer for Wwise Authoring.
 
